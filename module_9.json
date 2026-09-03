@@ -1,0 +1,15 @@
+{
+  "name": "vortex-prism-1134",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 1461,
+    "createdAt": "2026-09-03T12:16:59.902Z"
+  }
+}
